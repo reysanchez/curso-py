@@ -1,2 +1,2 @@
-# curso-py
+curso-py
 curso completo de typhon
