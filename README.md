@@ -1,2 +1,2 @@
 curso-py
-curso completo de typhon
+curso completo de typhon en español
